@@ -1,9 +1,9 @@
-#Chip-8 Emulator in Python
-###by Shane O'Malley
+# Chip-8 Emulator in Python
+### by Shane O'Malley
 
 This is a quick project I did to learn more about emulation.
 
-Python 3 and pygame(pygame.org) is required to run the program
+Python 3 and pygame(http://pygame.org) is required to run the program
 
 I used this page for reference: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
 I do not take credit for any of the games included, most of them were made by David Winter: http://www.pong-story.com/chip8/
